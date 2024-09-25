@@ -13,7 +13,7 @@ gem "puma", ">= 5.0"
 
 gem "dotenv-rails", "~> 2.1", ">= 2.1.1"
 # Gemfile
-gem 'aws-sdk-s3', '~> 1.48', require: false
+gem 'aws-sdk-s3', '~> 1.166', require: false
 
 # Use Kredis to get higher-level data types in Redis [https://github.com/rails/kredis]
 # gem "kredis"
